@@ -16,7 +16,7 @@ public class AgeAndName {
         // Show name and age entered 
         System.out.println("Your name is: " + name);
         System.out.println("Your age is: " + age);
-        System.out.println("Bye");
+       
 
 
         
